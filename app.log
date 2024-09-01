@@ -1,0 +1,4 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/product\",\"status\":\"201\",\"responseTime\":\"2.448\"}","timestamp":"2024-08-28T06:26:44.377Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/product\",\"status\":\"201\",\"responseTime\":\"0.426\"}","timestamp":"2024-08-28T06:26:54.658Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Post request is made to add new product","timestamp":"2024-08-28T06:30:28.948Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/product\",\"status\":\"201\",\"responseTime\":\"4.387\"}","timestamp":"2024-08-28T06:30:28.954Z"}
